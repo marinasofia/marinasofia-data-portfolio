@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+
+# (Optional) keep raw data out of git
+# SQL_Project_Netflix/data/*
+# !SQL_Project_Netflix/data/README.md
